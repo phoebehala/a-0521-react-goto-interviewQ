@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import B from './B'
-import C from './C'
+
+// didn't fugure out the solution without passing props
 
 const ChallengeE = () => {
 
